@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>colors.js</file>
+        <file>main.qml</file>
+        <file>ChatWindow.qml</file>
+        <file>ChatDelegate.qml</file>
+        <file>ChatTextEdit.qml</file>
+        <file>ChatButton.qml</file>
+        <file>ChatScrollIndicator.qml</file>
+        <file>ChatPressable.qml</file>
+        <file>images/cross.svg</file>
+        <file>images/arrow_up.svg</file>
+        <file>images/add.svg</file>
+        <file>README</file>
+    </qresource>
+</RCC>
